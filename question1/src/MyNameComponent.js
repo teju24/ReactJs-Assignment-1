@@ -3,9 +3,9 @@ import React from 'react';
 class MyNameComponent extends React.Component{
     render(){
         return(
-            <div>
+           <span>
                 Tejashree
-            </div>
+                </span>
         )
     }
 

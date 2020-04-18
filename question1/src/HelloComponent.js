@@ -5,7 +5,7 @@ class HelloComponent extends React.Component{
     render(){
         return(
             <div>
-                Hello <MyNameComponent/>
+                <h4> Hello <MyNameComponent/> </h4>
             </div>
         )
     }
