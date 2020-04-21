@@ -1,4 +1,14 @@
-.title{
-   vertical-align: top;
-   font-size: 50px;
-}
+
+li {
+   float: left;
+ }
+ 
+ li a {
+   display: block;
+   text-align: center;
+ }
+ 
+ ul {
+    list-style: none;
+    margin-left: -35px;
+ }
